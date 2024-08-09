@@ -1,0 +1,6 @@
+{
+    "home": {
+        "normal": "./svgs/home.svg",
+        "filled": "./svgs/home-filled"
+    }
+}
