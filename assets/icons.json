@@ -10,5 +10,9 @@
     "heart": {
         "normal": "./svgs/heart.svg",
         "filled": "./svgs/heart-filled.svg"
+    },
+    "search": {
+        "normal": "./svgs/search.svg",
+        "filled": "./svgs/search-filled.svg"
     }
 }
