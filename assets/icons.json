@@ -23,5 +23,9 @@
         "normal": "./svgs/user.svg",
         "filled": "./svgs/user-filled.svg"
     },
+    "settings": {
+        "normal": "./svgs/settings.svg",
+        "filled": "./svgs/settings-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
