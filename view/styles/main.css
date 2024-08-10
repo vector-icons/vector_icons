@@ -5,3 +5,39 @@
 }
 
 * { box-sizing: border-box; }
+:root {
+    color: var(--foreground);
+    fill: var(--foreground);
+}
+
+body { background-color: var(--background); }
+
+#icon-selector { display: none; }
+#viewer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 15px;
+}
+
+#viewer > * > * {
+    display: flex;
+    background-color: var(--rearground);
+    padding: 15px;
+    border: 2px solid var(--rearground-border);
+    border-radius: 10px;
+    fill: var(--foreground3);
+    transition-property: translate, fill;
+    transition-duration: 0.3s;
+}
+#viewer > *:hover > * {
+    fill: var(--foreground);
+}
+
+#viewer > *:hover > *:nth-child(2) { translate: 0px -50%; }
+#viewer > *:focus > *:nth-child(2) { translate: 0px; }
+
+#viewer > * > *:nth-child(2) {
+    translate: 0px -100%;
+    z-index: -1;
+}

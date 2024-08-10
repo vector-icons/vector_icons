@@ -22,9 +22,9 @@ fetch("../assets/icons.json").then(async response => {
 
             const div = document.createElement("div");
             div.style.display = "flex";
-            div.style.width = "32px";
             div.style.flexDirection = "column";
-            div.style.gap = "10px";
+            div.style.gap = "5px";
+            div.tabIndex = 1;
 
             const svg1 = new DOMParser().parseFromString(await r1.text(), "text/html")
                 .getElementsByTagName("svg")[0];
@@ -33,15 +33,23 @@ fetch("../assets/icons.json").then(async response => {
                 .getElementsByTagName("svg")[0];
 
             if (svg1) {
+                const wrapper = document.createElement("div");
+                wrapper.appendChild(svg1)
+
+                svg1.style.width = "32px";
                 svg1.style.height = "32px";
-                div.appendChild(svg1);
+                div.appendChild(wrapper);
             }
             if (svg2) {
+                const wrapper = document.createElement("div");
+                wrapper.appendChild(svg2)
+
+                svg2.style.width = "32px";
                 svg2.style.height = "32px";
-                div.appendChild(svg2);
+                div.appendChild(wrapper);
             }
 
-            viewer.append(div);
+            viewer.appendChild(div);
         }
     }
 });

@@ -1,6 +1,9 @@
 
 :root {
     --background: black;
-    --rearground: rgb(16, 18, 20);
+    --rearground: rgb(24, 26, 28);
+    --rearground-border: #282a2c;
     --foreground: white;
+    --foreground2: rgb(220, 220, 220);
+    --foreground3: rgb(180, 180, 180);
 }
