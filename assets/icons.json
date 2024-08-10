@@ -27,5 +27,9 @@
         "normal": "./svgs/settings.svg",
         "filled": "./svgs/settings-filled.svg"
     },
+    "chat": {
+        "normal": "./svgs/chat.svg",
+        "filled": "./svgs/chat-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
