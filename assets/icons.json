@@ -1,6 +1,14 @@
 {
     "home": {
         "normal": "./svgs/home.svg",
-        "filled": "./svgs/home-filled"
+        "filled": "./svgs/home-filled.svg"
+    },
+    "compass": {
+        "normal": "./svgs/compass.svg",
+        "filled": "./svgs/compass-filled.svg"
+    },
+    "heart": {
+        "normal": "./svgs/heart.svg",
+        "filled": "./svgs/heart-filled.svg"
     }
 }
