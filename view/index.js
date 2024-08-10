@@ -25,6 +25,7 @@ fetch("../assets/icons.json").then(async response => {
             div.style.flexDirection = "column";
             div.style.width = "32px";
             div.style.width = "32px";
+            div.style.justifyContent = "center";
             div.style.gap = "5px";
 
             const svg1 = await r1.text();
