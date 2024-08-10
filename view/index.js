@@ -22,19 +22,24 @@ fetch("../assets/icons.json").then(async response => {
 
             const div = document.createElement("div");
             div.style.display = "flex";
+            div.style.width = "32px";
             div.style.flexDirection = "column";
-            div.style.width = "32px";
-            div.style.width = "32px";
-            div.style.justifyContent = "center";
-            div.style.gap = "5px";
+            div.style.gap = "10px";
 
-            const svg1 = await r1.text();
-            const svg2 = await r2.text();
+            const svg1 = new DOMParser().parseFromString(await r1.text(), "text/html")
+                .getElementsByTagName("svg")[0];
 
-            div.innerHTML = `
-                ${svg1}
-                ${svg2}
-            `;
+            const svg2 = new DOMParser().parseFromString(await r2.text(), "text/html")
+                .getElementsByTagName("svg")[0];
+
+            if (svg1) {
+                svg1.style.height = "32px";
+                div.appendChild(svg1);
+            }
+            if (svg2) {
+                svg2.style.height = "32px";
+                div.appendChild(svg2);
+            }
 
             viewer.append(div);
         }

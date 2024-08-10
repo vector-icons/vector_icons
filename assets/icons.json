@@ -14,5 +14,10 @@
     "search": {
         "normal": "./svgs/search.svg",
         "filled": "./svgs/search-filled.svg"
-    }
+    },
+    "navigation": {
+        "normal": "./svgs/navigation.svg",
+        "filled": "./svgs/navigation-filled.svg"
+    },
+    "menu": {"normal": "./svgs/menu.svg"}
 }
