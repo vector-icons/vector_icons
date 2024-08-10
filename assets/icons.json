@@ -19,5 +19,9 @@
         "normal": "./svgs/navigation.svg",
         "filled": "./svgs/navigation-filled.svg"
     },
+    "user": {
+        "normal": "./svgs/user.svg",
+        "filled": "./svgs/user-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }

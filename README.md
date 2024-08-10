@@ -11,4 +11,4 @@
     </table>
 </div>
 
-> The icons count of this package is 3 units.
+> The icons count of this package is 7 units.
