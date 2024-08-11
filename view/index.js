@@ -18,7 +18,7 @@ fetch("../assets/icons.json").then(async response => {
         }
         {
             const r1 = await fetch("../assets/" + path["normal"]);
-            const r2 = await fetch("../assets/" + path["filled"]);
+            const r2 = await fetch("../assets/" + path["active"]);
 
             const div = document.createElement("div");
             div.style.display = "flex";

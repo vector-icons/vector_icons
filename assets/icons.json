@@ -1,51 +1,55 @@
 {
     "home": {
         "normal": "./svgs/home.svg",
-        "filled": "./svgs/home-filled.svg"
+        "active": "./svgs/home-active.svg"
     },
     "compass": {
         "normal": "./svgs/compass.svg",
-        "filled": "./svgs/compass-filled.svg"
+        "active": "./svgs/compass-active.svg"
     },
     "heart": {
         "normal": "./svgs/heart.svg",
-        "filled": "./svgs/heart-filled.svg"
+        "active": "./svgs/heart-active.svg"
     },
     "search": {
         "normal": "./svgs/search.svg",
-        "filled": "./svgs/search-filled.svg"
+        "active": "./svgs/search-active.svg"
     },
     "navigation": {
         "normal": "./svgs/navigation.svg",
-        "filled": "./svgs/navigation-filled.svg"
+        "active": "./svgs/navigation-active.svg"
     },
     "user": {
         "normal": "./svgs/user.svg",
-        "filled": "./svgs/user-filled.svg"
+        "active": "./svgs/user-active.svg"
     },
     "settings": {
         "normal": "./svgs/settings.svg",
-        "filled": "./svgs/settings-filled.svg"
+        "active": "./svgs/settings-active.svg"
     },
     "chat": {
         "normal": "./svgs/chat.svg",
-        "filled": "./svgs/chat-filled.svg"
+        "active": "./svgs/chat-active.svg"
     },
     "thumbs_up": {
         "normal": "./svgs/thumbs_up.svg",
-        "filled": "./svgs/thumbs_up-filled.svg"
+        "active": "./svgs/thumbs_up-active.svg"
     },
     "thumbs_down": {
         "normal": "./svgs/thumbs_down.svg",
-        "filled": "./svgs/thumbs_down-filled.svg"
+        "active": "./svgs/thumbs_down-active.svg"
     },
     "mike": {
         "normal": "./svgs/mike.svg",
-        "filled": "./svgs/mike-filled.svg"
+        "active": "./svgs/mike-active.svg"
     },
     "mike_off": {
         "normal": "./svgs/mike_off.svg",
-        "filled": "./svgs/mike_off-filled.svg"
+        "active": "./svgs/mike_off-active.svg"
+    },
+    "extension": {
+        "normal": "./svgs/extension.svg",
+        "active": "./svgs/extension-active.svg"
     },
     "menu": {"normal": "./svgs/menu.svg"}
 }
