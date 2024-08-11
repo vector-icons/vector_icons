@@ -43,5 +43,9 @@
         "normal": "./svgs/mike.svg",
         "filled": "./svgs/mike-filled.svg"
     },
+    "mike_off": {
+        "normal": "./svgs/mike_off.svg",
+        "filled": "./svgs/mike_off-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
