@@ -39,5 +39,9 @@
         "normal": "./svgs/thumbs_down.svg",
         "filled": "./svgs/thumbs_down-filled.svg"
     },
+    "mike": {
+        "normal": "./svgs/mike.svg",
+        "filled": "./svgs/mike-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
