@@ -31,5 +31,13 @@
         "normal": "./svgs/chat.svg",
         "filled": "./svgs/chat-filled.svg"
     },
+    "thumbs_up": {
+        "normal": "./svgs/thumbs_up.svg",
+        "filled": "./svgs/thumbs_up-filled.svg"
+    },
+    "thumbs_down": {
+        "normal": "./svgs/thumbs_down.svg",
+        "filled": "./svgs/thumbs_down-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
