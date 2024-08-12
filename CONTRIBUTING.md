@@ -6,4 +6,4 @@ That is 3 pixels based on viewport 32px, And 5 pixels when an icon active state.
 | Type | Value |
 |------|---|
 | Primary | 4px
-| secondary | 2px
+| Secondary | 2px
