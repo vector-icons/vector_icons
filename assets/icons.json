@@ -108,5 +108,6 @@
     "download": {"normal": "./svgs/download.svg"},
     "more_vertical": {"normal": "./svgs/more_vertical.svg"},
     "more_horizontal": {"normal": "./svgs/more_horizontal.svg"},
-    "information": {"normal": "./svgs/information.svg"}
+    "information": {"normal": "./svgs/information.svg"},
+    "exclamation": {"normal": "./svgs/exclamation.svg"}
 }
