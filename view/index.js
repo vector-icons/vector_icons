@@ -1,5 +1,6 @@
 const selector = document.getElementById("icon-selector");
 const viewer = document.getElementById("viewer");
+const iconSize = "32px";
 
 fetch("../assets/icons.json").then(async response => {
     const iconJson = await response.json();
@@ -36,16 +37,16 @@ fetch("../assets/icons.json").then(async response => {
                 const wrapper = document.createElement("div");
                 wrapper.appendChild(svg1)
 
-                svg1.style.width = "32px";
-                svg1.style.height = "32px";
+                svg1.style.width = iconSize;
+                svg1.style.height = iconSize;
                 div.appendChild(wrapper);
             }
             if (svg2) {
                 const wrapper = document.createElement("div");
                 wrapper.appendChild(svg2)
 
-                svg2.style.width = "32px";
-                svg2.style.height = "32px";
+                svg2.style.width = iconSize;
+                svg2.style.height = iconSize;
                 div.appendChild(wrapper);
             }
 
