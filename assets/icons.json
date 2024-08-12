@@ -63,5 +63,9 @@
         "normal": "./svgs/element.svg",
         "active": "./svgs/element-active.svg"
     },
+    "bookmark": {
+        "normal": "./svgs/bookmark.svg",
+        "active": "./svgs/bookmark-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
