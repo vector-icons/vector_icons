@@ -75,6 +75,14 @@
         "normal": "./svgs/sidebar.svg",
         "active": "./svgs/sidebar-active.svg"
     },
+    "star": {
+        "normal": "./svgs/star.svg",
+        "active": "./svgs/star-active.svg"
+    },
+    "write": {
+        "normal": "./svgs/write.svg",
+        "active": "./svgs/write-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
