@@ -91,6 +91,10 @@
         "normal": "./svgs/eye_off.svg",
         "active": "./svgs/eye_off-active.svg"
     },
+    "grid": {
+        "normal": "./svgs/grid.svg",
+        "active": "./svgs/grid-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
