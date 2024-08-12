@@ -83,6 +83,14 @@
         "normal": "./svgs/write.svg",
         "active": "./svgs/write-active.svg"
     },
+    "eye": {
+        "normal": "./svgs/eye.svg",
+        "active": "./svgs/eye-active.svg"
+    },
+    "eye_off": {
+        "normal": "./svgs/eye_off.svg",
+        "active": "./svgs/eye_off-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
@@ -90,5 +98,5 @@
     "arrow_bottom": {"normal": "./svgs/arrow_bottom.svg"},
     "sign_in": {"normal": "./svgs/sign_in.svg"},
     "sign_out": {"normal": "./svgs/sign_out.svg"},
-    "download": {"normal": "./svgs/download.svg"}
+    "download": {"normal": "./svgs/sign_out.svg"}
 }
