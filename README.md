@@ -11,6 +11,16 @@
     </table>
 </div>
 
+# What is it?
+This is a curated library of high-quality vector icons designed to enhance your web and mobile applications. Whether you're building a sleek website or a sophisticated app, our icons provide a professional and consistent look.
+
+> __Why use it?__
+> - Save time: No need to design icons from scratch. Our ready-to-use icons save you valuable development time.
+> - Enhance your design: Our icons are carefully crafted to complement various design styles, adding a touch of elegance to your projects.
+
+# Contributing:
+We welcome contributions from the community. Whether you want to fix a bug, add a new icon, or improve the documentation, your help is appreciated.
+
 # Current
 > The icons count of this package is 25 units.
 
