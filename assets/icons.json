@@ -104,5 +104,7 @@
     "minus": {"normal": "./svgs/minus.svg"},
     "sign_in": {"normal": "./svgs/sign_in.svg"},
     "sign_out": {"normal": "./svgs/sign_out.svg"},
-    "download": {"normal": "./svgs/download.svg"}
+    "download": {"normal": "./svgs/download.svg"},
+    "more_vertical": {"normal": "./svgs/more_vertical.svg"},
+    "more_horizontal": {"normal": "./svgs/more_horizontal.svg"}
 }
