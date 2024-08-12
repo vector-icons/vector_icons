@@ -67,5 +67,9 @@
         "normal": "./svgs/bookmark.svg",
         "active": "./svgs/bookmark-active.svg"
     },
+    "notification": {
+        "normal": "./svgs/notification.svg",
+        "active": "./svgs/notification-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
