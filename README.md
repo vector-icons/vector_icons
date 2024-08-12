@@ -12,6 +12,6 @@
 </div>
 
 # Current
-> The icons count of this package is 19 units.
+> The icons count of this package is 25 units.
 
 ![icons](https://github.com/user-attachments/assets/8094132a-1b9e-4c9c-a6bf-f60f0bf20881)
