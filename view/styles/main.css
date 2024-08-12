@@ -21,7 +21,13 @@ body { background-color: var(--background); }
     padding: 15px;
 }
 
-#viewer > * > * {
+#viewer > * {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 7.5px;
+}
+#viewer > * > *:nth-child(1) > * {
     display: flex;
     background-color: var(--rearground);
     padding: 15px;
@@ -31,9 +37,9 @@ body { background-color: var(--background); }
     transition-property: translate, fill;
     transition-duration: 0.3s;
 }
-#viewer > *:hover > * {
+#viewer > * > *:hover > * {
     fill: var(--foreground);
 }
 
-#viewer > *:hover > * { translate: 0px -10%; }
-#viewer > *:focus > * { translate: 0px; }
+#viewer > * > *:hover > * { translate: 0px -10%; }
+#viewer > * > *:focus > * { translate: 0px -20%; }

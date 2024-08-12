@@ -22,9 +22,11 @@ fetch("../assets/icons.json").then(async response => {
             const r2 = await fetch("../assets/" + path["active"]);
 
             const div = document.createElement("div");
+            const divWrapper = document.createElement("div");
             div.style.display = "flex";
             div.style.flexDirection = "column";
             div.style.gap = "5px";
+            div.style.color = "var(--foreground3)";
             div.tabIndex = 1;
 
             const svg1 = new DOMParser().parseFromString(await r1.text(), "text/html")
@@ -49,8 +51,21 @@ fetch("../assets/icons.json").then(async response => {
                 svg2.style.height = iconSize;
                 div.appendChild(wrapper);
             }
+            
+            divWrapper.appendChild(div);
+            viewer.appendChild(divWrapper);
 
-            viewer.appendChild(div);
+            {
+                const wrapper = document.createElement("div");
+                wrapper.textContent = name;
+                wrapper.style.maxWidth = `calc(${iconSize} + 30px)`;
+                wrapper.style.overflow = "hidden";
+                wrapper.style.textOverflow = "ellipsis";
+                wrapper.style.fontSize = "12px";
+                wrapper.style.color = "var(--foreground3)"
+
+                divWrapper.appendChild(wrapper);
+            }
         }
     }
 });

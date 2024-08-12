@@ -71,6 +71,10 @@
         "normal": "./svgs/notification.svg",
         "active": "./svgs/notification-active.svg"
     },
+    "sidebar": {
+        "normal": "./svgs/sidebar.svg",
+        "active": "./svgs/sidebar-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
