@@ -100,6 +100,8 @@
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
     "arrow_top": {"normal": "./svgs/arrow_top.svg"},
     "arrow_bottom": {"normal": "./svgs/arrow_bottom.svg"},
+    "plus": {"normal": "./svgs/plus.svg"},
+    "minus": {"normal": "./svgs/minus.svg"},
     "sign_in": {"normal": "./svgs/sign_in.svg"},
     "sign_out": {"normal": "./svgs/sign_out.svg"},
     "download": {"normal": "./svgs/download.svg"}
