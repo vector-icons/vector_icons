@@ -51,5 +51,9 @@
         "normal": "./svgs/extension.svg",
         "active": "./svgs/extension-active.svg"
     },
+    "library": {
+        "normal": "./svgs/library.svg",
+        "active": "./svgs/library-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"}
 }
