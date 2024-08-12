@@ -102,5 +102,5 @@
     "arrow_bottom": {"normal": "./svgs/arrow_bottom.svg"},
     "sign_in": {"normal": "./svgs/sign_in.svg"},
     "sign_out": {"normal": "./svgs/sign_out.svg"},
-    "download": {"normal": "./svgs/sign_out.svg"}
+    "download": {"normal": "./svgs/download.svg"}
 }
