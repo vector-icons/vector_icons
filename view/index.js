@@ -6,6 +6,8 @@ fetch("../assets/icons.json").then(async response => {
     const iconJson = await response.json();
     const icons = Object.entries(iconJson);
 
+    console.log(`Icon Size: ${icons.length}`);
+
     for (const icon of icons) {
         const name = icon[0];
         const path = icon[1];
