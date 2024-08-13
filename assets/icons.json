@@ -149,6 +149,10 @@
         "normal": "./svgs/calendar.svg",
         "filled": "./svgs/calendar-filled.svg"
     },
+    "garbage": {
+        "normal": "./svgs/garbage.svg",
+        "filled": "./svgs/garbage-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
