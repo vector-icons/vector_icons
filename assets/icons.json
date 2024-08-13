@@ -95,6 +95,14 @@
         "normal": "./svgs/grid.svg",
         "active": "./svgs/grid-active.svg"
     },
+    "image": {
+        "normal": "./svgs/image.svg",
+        "active": "./svgs/image-active.svg"
+    },
+    "no_image": {
+        "normal": "./svgs/no_image.svg",
+        "active": "./svgs/no_image-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
@@ -109,5 +117,6 @@
     "more_vertical": {"normal": "./svgs/more_vertical.svg"},
     "more_horizontal": {"normal": "./svgs/more_horizontal.svg"},
     "information": {"normal": "./svgs/information.svg"},
-    "exclamation": {"normal": "./svgs/exclamation.svg"}
+    "exclamation": {"normal": "./svgs/exclamation.svg"},
+    "help": {"normal": "./svgs/help.svg"}
 }
