@@ -111,6 +111,10 @@
         "normal": "./svgs/pause.svg",
         "active": "./svgs/pause-active.svg"
     },
+    "add": {
+        "normal": "./svgs/add.svg",
+        "active": "./svgs/add-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
