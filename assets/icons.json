@@ -83,12 +83,49 @@
         "normal": "./svgs/write.svg",
         "active": "./svgs/write-active.svg"
     },
+    "eye": {
+        "normal": "./svgs/eye.svg",
+        "active": "./svgs/eye-active.svg"
+    },
+    "eye_off": {
+        "normal": "./svgs/eye_off.svg",
+        "active": "./svgs/eye_off-active.svg"
+    },
+    "grid": {
+        "normal": "./svgs/grid.svg",
+        "active": "./svgs/grid-active.svg"
+    },
+    "image": {
+        "normal": "./svgs/image.svg",
+        "active": "./svgs/image-active.svg"
+    },
+    "no_image": {
+        "normal": "./svgs/no_image.svg",
+        "active": "./svgs/no_image-active.svg"
+    },
+    "play": {
+        "normal": "./svgs/play.svg",
+        "active": "./svgs/play-active.svg"
+    },
+    "pause": {
+        "normal": "./svgs/pause.svg",
+        "active": "./svgs/pause-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
     "arrow_top": {"normal": "./svgs/arrow_top.svg"},
     "arrow_bottom": {"normal": "./svgs/arrow_bottom.svg"},
+    "close": {"normal": "./svgs/close.svg"},
+    "plus": {"normal": "./svgs/plus.svg"},
+    "minus": {"normal": "./svgs/minus.svg"},
+    "check": {"normal": "./svgs/check.svg"},
     "sign_in": {"normal": "./svgs/sign_in.svg"},
     "sign_out": {"normal": "./svgs/sign_out.svg"},
-    "download": {"normal": "./svgs/download.svg"}
+    "download": {"normal": "./svgs/download.svg"},
+    "more_vertical": {"normal": "./svgs/more_vertical.svg"},
+    "more_horizontal": {"normal": "./svgs/more_horizontal.svg"},
+    "information": {"normal": "./svgs/information.svg"},
+    "exclamation": {"normal": "./svgs/exclamation.svg"},
+    "help": {"normal": "./svgs/help.svg"}
 }
