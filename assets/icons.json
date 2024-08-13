@@ -119,6 +119,10 @@
         "normal": "./svgs/remove.svg",
         "active": "./svgs/remove-active.svg"
     },
+    "share": {
+        "normal": "./svgs/share.svg",
+        "active": "./svgs/share-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
