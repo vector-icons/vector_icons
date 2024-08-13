@@ -24,4 +24,4 @@ We welcome contributions from the community. Whether you want to fix a bug, add 
 # Current
 > The icons count of this package is 47 units.
 
-![icons](https://github.com/user-attachments/assets/5583b8ee-cbe2-4af7-bdc1-5dac4a6fd694)
+![icons](https://github.com/user-attachments/assets/41d0c676-7d8d-43d7-88b2-135c17acaeda)
