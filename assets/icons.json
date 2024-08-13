@@ -103,6 +103,14 @@
         "normal": "./svgs/no_image.svg",
         "active": "./svgs/no_image-active.svg"
     },
+    "play": {
+        "normal": "./svgs/play.svg",
+        "active": "./svgs/play-active.svg"
+    },
+    "pause": {
+        "normal": "./svgs/pause.svg",
+        "active": "./svgs/pause-active.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
@@ -111,6 +119,7 @@
     "close": {"normal": "./svgs/close.svg"},
     "plus": {"normal": "./svgs/plus.svg"},
     "minus": {"normal": "./svgs/minus.svg"},
+    "check": {"normal": "./svgs/check.svg"},
     "sign_in": {"normal": "./svgs/sign_in.svg"},
     "sign_out": {"normal": "./svgs/sign_out.svg"},
     "download": {"normal": "./svgs/download.svg"},
