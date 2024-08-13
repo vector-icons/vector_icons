@@ -123,6 +123,14 @@
         "normal": "./svgs/share.svg",
         "filled": "./svgs/share-filled.svg"
     },
+    "lock": {
+        "normal": "./svgs/lock.svg",
+        "filled": "./svgs/lock-filled.svg"
+    },
+    "mail": {
+        "normal": "./svgs/mail.svg",
+        "filled": "./svgs/mail-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
