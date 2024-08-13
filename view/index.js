@@ -21,7 +21,7 @@ fetch("../assets/icons.json").then(async response => {
         }
         {
             const r1 = await fetch("../assets/" + path["normal"]);
-            const r2 = await fetch("../assets/" + path["active"]);
+            const r2 = await fetch("../assets/" + path["filled"]);
 
             const div = document.createElement("div");
             const divWrapper = document.createElement("div");
