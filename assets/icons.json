@@ -175,5 +175,6 @@
     "more_horizontal": {"normal": "./svgs/more_horizontal.svg"},
     "information": {"normal": "./svgs/information.svg"},
     "exclamation": {"normal": "./svgs/exclamation.svg"},
-    "help": {"normal": "./svgs/help.svg"}
+    "help": {"normal": "./svgs/help.svg"},
+    "popup": {"normal": "./svgs/popup.svg"}
 }
