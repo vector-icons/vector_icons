@@ -153,6 +153,11 @@
         "normal": "./svgs/garbage.svg",
         "filled": "./svgs/garbage-filled.svg"
     },
+    "pencel": {
+        "normal": "./svgs/pencel.svg",
+        "filled": "./svgs/pencel-filled.svg",
+        "alias": ["edit"]
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
