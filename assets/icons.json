@@ -123,6 +123,36 @@
         "normal": "./svgs/share.svg",
         "filled": "./svgs/share-filled.svg"
     },
+    "lock": {
+        "normal": "./svgs/lock.svg",
+        "filled": "./svgs/lock-filled.svg"
+    },
+    "mail": {
+        "normal": "./svgs/mail.svg",
+        "filled": "./svgs/mail-filled.svg"
+    },
+    "paper": {
+        "normal": "./svgs/paper.svg",
+        "filled": "./svgs/paper-filled.svg",
+        "alias": ["file"]
+    },
+    "document": {
+        "normal": "./svgs/document.svg",
+        "filled": "./svgs/document-filled.svg",
+        "alias": ["doc", "docs", "text"]
+    },
+    "folder": {
+        "normal": "./svgs/folder.svg",
+        "filled": "./svgs/folder-filled.svg"
+    },
+    "calendar": {
+        "normal": "./svgs/calendar.svg",
+        "filled": "./svgs/calendar-filled.svg"
+    },
+    "garbage": {
+        "normal": "./svgs/garbage.svg",
+        "filled": "./svgs/garbage-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
