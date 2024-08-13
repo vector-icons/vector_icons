@@ -133,12 +133,21 @@
     },
     "paper": {
         "normal": "./svgs/paper.svg",
-        "filled": "./svgs/paper-filled.svg"
+        "filled": "./svgs/paper-filled.svg",
+        "alias": ["file"]
     },
     "document": {
         "normal": "./svgs/document.svg",
         "filled": "./svgs/document-filled.svg",
-        "alias": ["doc", "docs"]
+        "alias": ["doc", "docs", "text"]
+    },
+    "folder": {
+        "normal": "./svgs/folder.svg",
+        "filled": "./svgs/folder-filled.svg"
+    },
+    "calendar": {
+        "normal": "./svgs/calendar.svg",
+        "filled": "./svgs/calendar-filled.svg"
     },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
