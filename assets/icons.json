@@ -166,6 +166,14 @@
         "normal": "./svgs/layout.svg",
         "filled": "./svgs/layout-filled.svg"
     },
+    "time": {
+        "normal": "./svgs/time.svg",
+        "filled": "./svgs/time-filled.svg"
+    },
+    "circle_graph": {
+        "normal": "./svgs/circle_graph.svg",
+        "filled": "./svgs/circle_graph-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
@@ -185,5 +193,6 @@
     "exclamation": {"normal": "./svgs/exclamation.svg"},
     "help": {"normal": "./svgs/help.svg"},
     "popup": {"normal": "./svgs/popup.svg"},
-    "link": {"normal": "./svgs/link.svg"}
+    "link": {"normal": "./svgs/link.svg"},
+    "hashtag": {"normal": "./svgs/hashtag.svg"}
 }
