@@ -1,4 +1,5 @@
 const selector = document.getElementById("icon-selector");
+const iconCount = document.getElementById("icon-count");
 const viewer = document.getElementById("viewer");
 const iconSize = "32px";
 
@@ -6,7 +7,7 @@ fetch("../assets/icons.json").then(async response => {
     const iconJson = await response.json();
     const icons = Object.entries(iconJson);
 
-    console.log(`Icon Size: ${icons.length}`);
+    let itemCount = 0;
 
     for (const icon of icons) {
         const name = icon[0];
@@ -44,6 +45,8 @@ fetch("../assets/icons.json").then(async response => {
                 svg1.style.width = iconSize;
                 svg1.style.height = iconSize;
                 div.appendChild(wrapper);
+
+                itemCount++;
             }
             if (svg2) {
                 const wrapper = document.createElement("div");
@@ -52,6 +55,8 @@ fetch("../assets/icons.json").then(async response => {
                 svg2.style.width = iconSize;
                 svg2.style.height = iconSize;
                 div.appendChild(wrapper);
+
+                itemCount++;
             }
             
             divWrapper.appendChild(div);
@@ -69,5 +74,7 @@ fetch("../assets/icons.json").then(async response => {
                 divWrapper.appendChild(wrapper);
             }
         }
+
+        iconCount.textContent = `${icons.length} Units (All ${itemCount})`;
     }
 });
