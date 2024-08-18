@@ -22,6 +22,6 @@ This is a curated library of high-quality vector icons designed to enhance your 
 We welcome contributions from the community. Whether you want to fix a bug, add a new icon, or improve the documentation, your help is appreciated.
 
 # Current
-> The icons count of this package is 73 units (all 122).
+> The icons count of this package is 86 units (all 148).
 
-![Instagram 스토리 – 1](https://github.com/user-attachments/assets/2491f21a-f81c-47f4-b2f0-61445b8d5a66)
+![icons](https://github.com/user-attachments/assets/aec28db8-eab3-4402-b1fb-bf7069fd1e6f)
