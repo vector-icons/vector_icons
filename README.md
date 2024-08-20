@@ -22,6 +22,6 @@ This is a curated library of high-quality vector icons designed to enhance your 
 We welcome contributions from the community. Whether you want to fix a bug, add a new icon, or improve the documentation, your help is appreciated.
 
 # Current
-> The icons count of this package is 90 units (all 156).
+> The icons count of this package is 96 units (all 167).
 
-![icons](https://github.com/user-attachments/assets/2ee7b36a-e1a8-47f0-960e-d375356e7e22)
+![icons](https://github.com/user-attachments/assets/b869ead9-b3d5-4343-99d3-8a7f66e9a435)
