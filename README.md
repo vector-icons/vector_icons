@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c813f110-92bd-45ad-8dde-8cdd867d737d">
+  <img width="200px" src="https://github.com/user-attachments/assets/1afab916-e22a-4852-b4c8-89b8748b99f6">
   <h1>Vector Icons Template</h1>
   <table>
         <thead>
