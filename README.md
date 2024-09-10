@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c813f110-92bd-45ad-8dde-8cdd867d737d">
+  <img width="200px" src="https://github.com/user-attachments/assets/1afab916-e22a-4852-b4c8-89b8748b99f6">
   <h1>Vector Icons Template</h1>
   <table>
         <thead>
@@ -22,6 +22,6 @@ This is a curated library of high-quality vector icons designed to enhance your 
 We welcome contributions from the community. Whether you want to fix a bug, add a new icon, or improve the documentation, your help is appreciated.
 
 # Current
-> The icons count of this package is 126 units (all 220).
+> The icons count of this package is 132 units (all 229).
 
-![icons](https://github.com/user-attachments/assets/6001ec0f-efe2-4b02-b5de-ff9050367c4f)
+![image](https://github.com/user-attachments/assets/863851fe-6a10-4775-92b4-7b3593cee5c6)
