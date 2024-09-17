@@ -30,7 +30,7 @@ body { background-color: var(--background); }
     display: flex;
     background-color: var(--rearground);
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 35%;
     fill: var(--foreground2);
     transition-property: translate, fill;
     transition-duration: 0.3s;
