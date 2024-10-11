@@ -1,6 +1,6 @@
 <div align="center">
   <img width="200px" src="https://github.com/user-attachments/assets/1afab916-e22a-4852-b4c8-89b8748b99f6">
-  <h1>Vector Icons Template</h1>
+  <h1>Quark Icons Template</h1>
   <table>
         <thead>
           <tr>
@@ -22,6 +22,6 @@ This is a curated library of high-quality vector icons designed to enhance your 
 We welcome contributions from the community. Whether you want to fix a bug, add a new icon, or improve the documentation, your help is appreciated.
 
 # Current
-> The icons count of this package is 132 units (all 229).
+> The icons count of this package is 150 Units (All 261).
 
-![image](https://github.com/user-attachments/assets/863851fe-6a10-4775-92b4-7b3593cee5c6)
+![image](https://github.com/user-attachments/assets/06a50bcf-69d0-4d76-9d3e-1de58061835d)
