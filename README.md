@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="200px" src="https://github.com/user-attachments/assets/1afab916-e22a-4852-b4c8-89b8748b99f6">
+  <img width="200px" src="https://github.com/user-attachments/assets/63369d97-299b-477e-95ba-81620684f762">
   <h1>Quark Icons Template</h1>
   <table>
         <thead>
           <tr>
             <th>Version</th>
-            <th>v1.0.0-dev</th>
+            <th>v1.0.0-beta</th>
           </tr>
         </tbody>
     </table>
