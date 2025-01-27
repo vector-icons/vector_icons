@@ -5,7 +5,7 @@
         <thead>
           <tr>
             <th>Version</th>
-            <th>v1.0.0-beta</th>
+            <th>v1.0.0</th>
           </tr>
         </tbody>
     </table>
@@ -22,6 +22,6 @@ This is a curated library of high-quality vector icons designed to enhance your 
 We welcome contributions from the community. Whether you want to fix a bug, add a new icon, or improve the documentation, your help is appreciated.
 
 # Current
-> The icons count of this package is 156 units (all 272)
+> The icons count of this package is 248 units (all 434)
 
-![image](https://github.com/user-attachments/assets/19fc1e48-fd64-4bb9-a566-eabdb1379b3d)
+![preview](https://github.com/user-attachments/assets/ecb497ff-006e-4145-af4c-4dc48080f403)
